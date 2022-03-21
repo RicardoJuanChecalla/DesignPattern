@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T8WghfHdHsJlygJoh8gUxrqd79hCLQhX1TN07exdNbXIRPo1f6DWj0lD8Eft/ZsBBWWB2h4MDrvHP9X09VlLzA==",
+  "success": true,
+  "projectFilePath": "D:\\Design Patterns\\DesignPatterns\\DependencyInversionPrinciple\\DependencyInversionPrinciple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RICARDO\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

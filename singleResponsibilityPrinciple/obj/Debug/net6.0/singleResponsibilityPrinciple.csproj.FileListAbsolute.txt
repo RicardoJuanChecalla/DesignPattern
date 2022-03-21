@@ -1,0 +1,15 @@
+D:\Design Patterns\DesignPatterns\singleResponsibilityPrinciple\bin\Debug\net6.0\singleResponsibilityPrinciple.exe
+D:\Design Patterns\DesignPatterns\singleResponsibilityPrinciple\bin\Debug\net6.0\singleResponsibilityPrinciple.deps.json
+D:\Design Patterns\DesignPatterns\singleResponsibilityPrinciple\bin\Debug\net6.0\singleResponsibilityPrinciple.runtimeconfig.json
+D:\Design Patterns\DesignPatterns\singleResponsibilityPrinciple\bin\Debug\net6.0\singleResponsibilityPrinciple.dll
+D:\Design Patterns\DesignPatterns\singleResponsibilityPrinciple\bin\Debug\net6.0\singleResponsibilityPrinciple.pdb
+D:\Design Patterns\DesignPatterns\singleResponsibilityPrinciple\obj\Debug\net6.0\singleResponsibilityPrinciple.csproj.AssemblyReference.cache
+D:\Design Patterns\DesignPatterns\singleResponsibilityPrinciple\obj\Debug\net6.0\singleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Patterns\DesignPatterns\singleResponsibilityPrinciple\obj\Debug\net6.0\singleResponsibilityPrinciple.AssemblyInfoInputs.cache
+D:\Design Patterns\DesignPatterns\singleResponsibilityPrinciple\obj\Debug\net6.0\singleResponsibilityPrinciple.AssemblyInfo.cs
+D:\Design Patterns\DesignPatterns\singleResponsibilityPrinciple\obj\Debug\net6.0\singleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+D:\Design Patterns\DesignPatterns\singleResponsibilityPrinciple\obj\Debug\net6.0\singleResponsibilityPrinciple.dll
+D:\Design Patterns\DesignPatterns\singleResponsibilityPrinciple\obj\Debug\net6.0\refint\singleResponsibilityPrinciple.dll
+D:\Design Patterns\DesignPatterns\singleResponsibilityPrinciple\obj\Debug\net6.0\singleResponsibilityPrinciple.pdb
+D:\Design Patterns\DesignPatterns\singleResponsibilityPrinciple\obj\Debug\net6.0\singleResponsibilityPrinciple.genruntimeconfig.cache
+D:\Design Patterns\DesignPatterns\singleResponsibilityPrinciple\obj\Debug\net6.0\ref\singleResponsibilityPrinciple.dll

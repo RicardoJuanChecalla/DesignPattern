@@ -1,0 +1,15 @@
+D:\Design Patterns\DesignPatterns\AbstracFactorytPattern\bin\Debug\net6.0\AbstracFactorytPattern.exe
+D:\Design Patterns\DesignPatterns\AbstracFactorytPattern\bin\Debug\net6.0\AbstracFactorytPattern.deps.json
+D:\Design Patterns\DesignPatterns\AbstracFactorytPattern\bin\Debug\net6.0\AbstracFactorytPattern.runtimeconfig.json
+D:\Design Patterns\DesignPatterns\AbstracFactorytPattern\bin\Debug\net6.0\AbstracFactorytPattern.dll
+D:\Design Patterns\DesignPatterns\AbstracFactorytPattern\bin\Debug\net6.0\AbstracFactorytPattern.pdb
+D:\Design Patterns\DesignPatterns\AbstracFactorytPattern\obj\Debug\net6.0\AbstracFactorytPattern.csproj.AssemblyReference.cache
+D:\Design Patterns\DesignPatterns\AbstracFactorytPattern\obj\Debug\net6.0\AbstracFactorytPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Patterns\DesignPatterns\AbstracFactorytPattern\obj\Debug\net6.0\AbstracFactorytPattern.AssemblyInfoInputs.cache
+D:\Design Patterns\DesignPatterns\AbstracFactorytPattern\obj\Debug\net6.0\AbstracFactorytPattern.AssemblyInfo.cs
+D:\Design Patterns\DesignPatterns\AbstracFactorytPattern\obj\Debug\net6.0\AbstracFactorytPattern.csproj.CoreCompileInputs.cache
+D:\Design Patterns\DesignPatterns\AbstracFactorytPattern\obj\Debug\net6.0\AbstracFactorytPattern.dll
+D:\Design Patterns\DesignPatterns\AbstracFactorytPattern\obj\Debug\net6.0\refint\AbstracFactorytPattern.dll
+D:\Design Patterns\DesignPatterns\AbstracFactorytPattern\obj\Debug\net6.0\AbstracFactorytPattern.pdb
+D:\Design Patterns\DesignPatterns\AbstracFactorytPattern\obj\Debug\net6.0\AbstracFactorytPattern.genruntimeconfig.cache
+D:\Design Patterns\DesignPatterns\AbstracFactorytPattern\obj\Debug\net6.0\ref\AbstracFactorytPattern.dll

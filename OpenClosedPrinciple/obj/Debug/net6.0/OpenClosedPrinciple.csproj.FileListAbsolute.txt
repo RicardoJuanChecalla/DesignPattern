@@ -1,0 +1,15 @@
+D:\Design Patterns\DesignPatterns\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.csproj.AssemblyReference.cache
+D:\Design Patterns\DesignPatterns\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Patterns\DesignPatterns\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.AssemblyInfoInputs.cache
+D:\Design Patterns\DesignPatterns\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.AssemblyInfo.cs
+D:\Design Patterns\DesignPatterns\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+D:\Design Patterns\DesignPatterns\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.exe
+D:\Design Patterns\DesignPatterns\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.deps.json
+D:\Design Patterns\DesignPatterns\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.runtimeconfig.json
+D:\Design Patterns\DesignPatterns\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.dll
+D:\Design Patterns\DesignPatterns\OpenClosedPrinciple\bin\Debug\net6.0\OpenClosedPrinciple.pdb
+D:\Design Patterns\DesignPatterns\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.dll
+D:\Design Patterns\DesignPatterns\OpenClosedPrinciple\obj\Debug\net6.0\refint\OpenClosedPrinciple.dll
+D:\Design Patterns\DesignPatterns\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.pdb
+D:\Design Patterns\DesignPatterns\OpenClosedPrinciple\obj\Debug\net6.0\OpenClosedPrinciple.genruntimeconfig.cache
+D:\Design Patterns\DesignPatterns\OpenClosedPrinciple\obj\Debug\net6.0\ref\OpenClosedPrinciple.dll

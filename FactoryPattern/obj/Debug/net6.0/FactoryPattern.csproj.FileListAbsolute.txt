@@ -1,0 +1,15 @@
+D:\Design Patterns\DesignPatterns\FactoryPattern\bin\Debug\net6.0\FactoryPattern.exe
+D:\Design Patterns\DesignPatterns\FactoryPattern\bin\Debug\net6.0\FactoryPattern.deps.json
+D:\Design Patterns\DesignPatterns\FactoryPattern\bin\Debug\net6.0\FactoryPattern.runtimeconfig.json
+D:\Design Patterns\DesignPatterns\FactoryPattern\bin\Debug\net6.0\FactoryPattern.dll
+D:\Design Patterns\DesignPatterns\FactoryPattern\bin\Debug\net6.0\FactoryPattern.pdb
+D:\Design Patterns\DesignPatterns\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.AssemblyReference.cache
+D:\Design Patterns\DesignPatterns\FactoryPattern\obj\Debug\net6.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Patterns\DesignPatterns\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfoInputs.cache
+D:\Design Patterns\DesignPatterns\FactoryPattern\obj\Debug\net6.0\FactoryPattern.AssemblyInfo.cs
+D:\Design Patterns\DesignPatterns\FactoryPattern\obj\Debug\net6.0\FactoryPattern.csproj.CoreCompileInputs.cache
+D:\Design Patterns\DesignPatterns\FactoryPattern\obj\Debug\net6.0\FactoryPattern.dll
+D:\Design Patterns\DesignPatterns\FactoryPattern\obj\Debug\net6.0\refint\FactoryPattern.dll
+D:\Design Patterns\DesignPatterns\FactoryPattern\obj\Debug\net6.0\FactoryPattern.pdb
+D:\Design Patterns\DesignPatterns\FactoryPattern\obj\Debug\net6.0\FactoryPattern.genruntimeconfig.cache
+D:\Design Patterns\DesignPatterns\FactoryPattern\obj\Debug\net6.0\ref\FactoryPattern.dll
